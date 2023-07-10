@@ -1,0 +1,9 @@
+/* --- 自定义css样式 --- */
+
+.tooltip {
+    display: none !important;
+}
+
+.xe-widget.xe-conversations.box2.label-info {
+    border-radius: 8px;
+}
